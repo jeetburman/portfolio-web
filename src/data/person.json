@@ -1,0 +1,32 @@
+{
+  "name": "Jeet Burman",
+  "initials": "JB",
+  "tagline": "Full-stack dev.",
+  "taglineAccent": "Builder. Contributor.",
+  "bio": "CNCF contributor, Razorpay integrator, open source enthusiast. Building things that work — cleanly and reliably. Open to internships across India and globally.",
+  "location": "Kolkata, West Bengal, India",
+  "email": "jeetburrman@gmail.com",
+  "phone": "+91-9330732038",
+  "github": "https://github.com/jeetburman",
+  "linkedin": "",
+  "openToWork": true,
+  "education": {
+    "degree": "B.Tech in Computer Science & Engineering",
+    "university": "Maulana Abul Kalam Azad University of Technology",
+    "shortName": "MAKAUT",
+    "sgpa": 8.25,
+    "start": "2023",
+    "end": "2027",
+    "notes": ["H+ Status Recognition (Anabin Database)", "Eligible for ZAV-approved remote internships"]
+  },
+  "stats": [
+    { "value": "8.25", "label": "SGPA · MAKAUT" },
+    { "value": "15+",  "label": "PRs merged (CNCF)" }
+  ],
+  "languages": [
+    { "name": "English", "level": "C1", "color": "#63b3ed" },
+    { "name": "Hindi",   "level": "C2", "color": "#9f7aea" },
+    { "name": "Bengali", "level": "B1", "color": "#68d391" },
+    { "name": "German",  "level": "A1", "color": "#f6ad55" }
+  ]
+}

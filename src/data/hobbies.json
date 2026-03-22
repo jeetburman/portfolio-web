@@ -1,0 +1,7 @@
+[
+  { "name": "lawn tennis", "color": "#63b3ed" },
+  { "name": "swimming",    "color": "#68d391" },
+  { "name": "chess",       "color": "#9f7aea" },
+  { "name": "powerlifting","color": "#f6ad55" },
+  { "name": "clash royale","color": "#fc8181" }
+]

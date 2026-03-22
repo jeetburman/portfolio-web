@@ -1,0 +1,20 @@
+[
+  {
+    "id": "meshery",
+    "repo": "Meshery",
+    "org": "Layer5",
+    "orgUrl": "https://github.com/layer5io",
+    "repoUrl": "https://github.com/meshery/meshery",
+    "description": "Shape Builder canvas real-time tracking, badge automation workflow",
+    "stat": "15+ PRs merged · org membership earned"
+  },
+  {
+    "id": "talawa",
+    "repo": "Talawa",
+    "org": "Palisadoes Foundation",
+    "orgUrl": "https://github.com/PalisadoesFoundation",
+    "repoUrl": "https://github.com/PalisadoesFoundation/talawa",
+    "description": ".env backup CLI feature, 100% unit test coverage, CI/CD issue triage",
+    "stat": "3 PRs merged"
+  }
+]

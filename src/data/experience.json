@@ -1,0 +1,62 @@
+[
+  {
+    "id": "layer5",
+    "role": "Open Source Contributor",
+    "org": "Layer5",
+    "type": "opensource",
+    "description": "CNCF Sandbox · Remote",
+    "start": "Dec 2025",
+    "end": "Present",
+    "logo": "/images/logos/layer5.png",
+    "logoBg": "from-[#1a1f35] to-[#2d2060]",
+    "logoColor": "#9f7aea",
+    "logoInitials": "L5",
+    "metric": "15+ PRs\nmerged",
+    "tags": ["React", "SVG", "GitHub Actions", "Slack API"],
+    "bullets": [
+      "Delivered 15+ merged PRs to the Meshery ecosystem (CNCF Sandbox), earning Layer5 org membership",
+      "Built live coordinate tracking in Shape Builder canvas with real-time updates and theme-aware styling",
+      "Automated badge award workflow reducing processing time from 30 min to 2 min"
+    ]
+  },
+  {
+    "id": "masa-forum",
+    "role": "Frontend Developer Intern",
+    "org": "MASA Forum Pvt Ltd",
+    "type": "internship",
+    "description": "On-site · Kolkata",
+    "start": "Apr 2025",
+    "end": "Jun 2025",
+    "logo": "/images/logos/masa.png",
+    "logoBg": "from-[#1f1a0f] to-[#2a200f]",
+    "logoColor": "#f6ad55",
+    "logoInitials": "MF",
+    "metric": "10+ pages\nshipped",
+    "tags": ["React", "Tailwind CSS", "Node.js", "Razorpay"],
+    "bullets": [
+      "Built 10+ responsive pages for the official startup website",
+      "Integrated Razorpay payment gateway implementing full payment lifecycle",
+      "Developed reusable UI components and managed 50+ assets"
+    ]
+  },
+  {
+    "id": "palisadoes",
+    "role": "Open Source Contributor",
+    "org": "Palisadoes Foundation",
+    "type": "opensource",
+    "description": "Remote",
+    "start": "Aug 2025",
+    "end": "Oct 2025",
+    "logo": "/images/logos/palisadoes.png",
+    "logoBg": "from-[#0f1f1a] to-[#0f2a20]",
+    "logoColor": "#68d391",
+    "logoInitials": "PF",
+    "metric": "100%\ntest coverage",
+    "tags": ["Node.js", "Jest", "TypeScript", "CI/CD"],
+    "bullets": [
+      "Developed versioned .env backup CLI feature with epoch-based versioning",
+      "Wrote 114 lines of unit tests achieving 100% coverage",
+      "Automated issue triage workflow using GitHub Actions"
+    ]
+  }
+]

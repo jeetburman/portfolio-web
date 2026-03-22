@@ -1,0 +1,20 @@
+[
+  {
+    "id": "layer5-membership",
+    "title": "Layer5 Organisation Membership",
+    "description": "Awarded for consistent cross-repository contributions to the CNCF Meshery ecosystem.",
+    "medalType": "gold"
+  },
+  {
+    "id": "sih-runner-up",
+    "title": "Smart India Hackathon · 1st Runner-up",
+    "description": "College level SIH 2024.",
+    "medalType": "gold"
+  },
+  {
+    "id": "tennis-runner-up",
+    "title": "Lawn Tennis · 1st Runner-up",
+    "description": "Society level tournament.",
+    "medalType": "silver"
+  }
+]

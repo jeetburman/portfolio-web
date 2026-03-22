@@ -1,0 +1,34 @@
+{
+  "marquee": [
+    { "name": "JavaScript", "color": "#f7df1e" },
+    { "name": "TypeScript", "color": "#3178c6" },
+    { "name": "React.js",   "color": "#61dafb" },
+    { "name": "Tailwind CSS","color": "#06b6d4" },
+    { "name": "Node.js",    "color": "#339933" },
+    { "name": "Express.js", "color": "#888888" },
+    { "name": "PostgreSQL", "color": "#336791" },
+    { "name": "MongoDB",    "color": "#47a248" },
+    { "name": "Docker",     "color": "#2496ed" },
+    { "name": "GitHub Actions","color": "#2088ff" },
+    { "name": "Java",       "color": "#b07219" },
+    { "name": "Jest / Vitest","color": "#c21325" }
+  ],
+  "categories": [
+    {
+      "label": "Frontend",
+      "skills": ["React.js", "Tailwind CSS", "JavaScript", "TypeScript", "SVG / Canvas"]
+    },
+    {
+      "label": "Backend",
+      "skills": ["Node.js", "Express.js", "REST APIs", "JWT Auth", "Zod"]
+    },
+    {
+      "label": "Databases",
+      "skills": ["PostgreSQL", "MongoDB", "SQL", "NoSQL"]
+    },
+    {
+      "label": "DevOps & tooling",
+      "skills": ["Docker", "GitHub Actions", "CI/CD", "Jest", "Vitest", "Java"]
+    }
+  ]
+}
