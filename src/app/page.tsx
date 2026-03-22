@@ -9,7 +9,10 @@ import Hobbies from "@/components/sections/Hobbies";
 import Footer from "@/components/layout/Footer";
 import hobbiesData from "@/data/hobbies.json";
 import { Hobby } from "@/types";
-const hobbies = hobbiesData as Hobby[];
+import Languages from "@/components/sections/Languages";
+import { Language } from "@/types";
+import EducationSection from "@/components/sections/Education";
+
 
 import personData from "@/data/person.json";
 import projectsData from "@/data/projects.json";
@@ -36,6 +39,8 @@ const skills = skillsData as SkillsType;
 const opensource = opensourceData as OpenSourceItem[];
 const hackathons = hackathonsData as Hackathon[];
 const achievements = achievementsData as Achievement[];
+const hobbies = hobbiesData as Hobby[];
+const languages = (personData as Person).languages as Language[];
 
 export default function Home() {
   return (
@@ -43,8 +48,10 @@ export default function Home() {
       <Navbar person={person} />
       <Hero person={person} />
       <Projects projects={projects} />
-      <Experience experience={experience} />
+      <EducationSection education={person.education} />
       <OpenSource items={opensource} />
+      <Experience experience={experience} />
+      <Languages languages={languages} />
       <Hackathons hackathons={hackathons} achievements={achievements} />
       <Skills skills={skills} />
       <Hobbies hobbies={hobbies} />

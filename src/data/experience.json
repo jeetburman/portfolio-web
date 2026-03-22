@@ -1,13 +1,13 @@
 [
   {
-    "id": "layer5",
+    "id": "Meshery",
     "role": "Open Source Contributor",
-    "org": "Layer5",
+    "org": "Meshery",
     "type": "opensource",
     "description": "CNCF Sandbox · Remote",
     "start": "Dec 2025",
-    "end": "Present",
-    "logo": "/images/logos/layer5.png",
+    "end": "Jan 2026",
+    "logo": "/images/logos/meshery.png",
     "logoBg": "from-[#1a1f35] to-[#2d2060]",
     "logoColor": "#9f7aea",
     "logoInitials": "L5",

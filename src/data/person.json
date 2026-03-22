@@ -17,16 +17,28 @@
     "sgpa": 8.25,
     "start": "2023",
     "end": "2027",
-    "notes": ["H+ Status Recognition (Anabin Database)", "Eligible for ZAV-approved remote internships"]
+    "notes": ["H+ Status Recognition (Anabin Database)", "Eligible for ZAV-approved remote internships"],
+    "coursework": [
+      "Data Structures",
+      "Algorithms",
+      "Operating Systems",
+      "DBMS",
+      "Computer Networks",
+      "OOP",
+      "Software Engineering",
+      "Discrete Mathematics",
+      "Computer Architecture",
+      "Linear Algebra"
+    ]
   },
   "stats": [
     { "value": "8.25", "label": "SGPA · MAKAUT" },
     { "value": "15+",  "label": "PRs merged (CNCF)" }
   ],
   "languages": [
-    { "name": "English", "level": "C1", "color": "#63b3ed" },
-    { "name": "Hindi",   "level": "C2", "color": "#9f7aea" },
-    { "name": "Bengali", "level": "B1", "color": "#68d391" },
-    { "name": "German",  "level": "A1", "color": "#f6ad55" }
+    { "name": "English",  "level": "C1", "color": "#63b3ed", "flag": "/images/flags/uk.png" },
+    { "name": "Hindi",    "level": "C2", "color": "#9f7aea", "flag": "/images/flags/india.png" },
+    { "name": "Bengali",  "level": "B1", "color": "#68d391", "flag": "/images/flags/india.png" },
+    { "name": "German",   "level": "A1", "color": "#f6ad55", "flag": "/images/flags/germany.png" }
   ]
 }

@@ -15,18 +15,14 @@ function ExperienceCard({ item }: { item: ExperienceItem }) {
     >
       {/* Logo */}
       <div
-        style={{
-          background: `linear-gradient(135deg, ${item.logoBg
-            .replace("from-[", "")
-            .replace("]", "")
-            .replace(" to-[", ", ")
-            .replace("]", "")})`,
-          border: "1px solid rgba(255,255,255,0.08)",
-          color: item.logoColor,
-        }}
-        className="w-11 h-11 rounded-xl flex-shrink-0 flex items-center justify-center text-xs font-semibold"
+        style={{ border: "1px solid var(--bd-card)" }}
+        className="w-11 h-11 rounded-xl flex-shrink-0 overflow-hidden bg-white flex items-center justify-center"
       >
-        {item.logoInitials}
+        <img
+          src={item.logo}
+          alt={item.org}
+          className="w-full h-full object-contain p-1"
+        />
       </div>
 
       {/* Content */}

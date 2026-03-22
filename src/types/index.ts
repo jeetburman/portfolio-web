@@ -2,6 +2,7 @@ export interface Language {
   name: string;
   level: string;
   color: string;
+  flag: string;
 }
 
 export interface Stat {
@@ -17,6 +18,7 @@ export interface Education {
   start: string;
   end: string;
   notes: string[];
+  coursework: string[];
 }
 
 export interface Person {
@@ -87,6 +89,7 @@ export interface OpenSourceItem {
   org: string;
   orgUrl: string;
   repoUrl: string;
+  logo: string;
   description: string;
   stat: string;
 }
