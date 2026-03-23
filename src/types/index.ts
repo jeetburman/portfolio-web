@@ -63,7 +63,8 @@ export interface ExperienceItem {
   logoBg: string;
   logoColor: string;
   logoInitials: string;
-  metric: string;
+  proofUrl: string;
+  proofType: "github" | "notion";
   tags: string[];
   bullets: string[];
 }

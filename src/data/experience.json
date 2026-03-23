@@ -11,7 +11,8 @@
     "logoBg": "from-[#1a1f35] to-[#2d2060]",
     "logoColor": "#9f7aea",
     "logoInitials": "L5",
-    "metric": "15+ PRs\nmerged",
+    "proofUrl": "https://github.com/meshery/meshery/pulls?q=is%3Apr+author%3Ajeetburman",
+    "proofType": "github",
     "tags": ["React", "SVG", "GitHub Actions", "Slack API"],
     "bullets": [
       "Delivered 15+ merged PRs to the Meshery ecosystem (CNCF Sandbox), earning Layer5 org membership",
@@ -31,7 +32,8 @@
     "logoBg": "from-[#1f1a0f] to-[#2a200f]",
     "logoColor": "#f6ad55",
     "logoInitials": "MF",
-    "metric": "10+ pages\nshipped",
+    "proofUrl": "https://github.com/meshery/meshery/pulls?q=is%3Apr+author%3Ajeetburman",
+    "proofType": "github",
     "tags": ["React", "Tailwind CSS", "Node.js", "Razorpay"],
     "bullets": [
       "Built 10+ responsive pages for the official startup website",
@@ -51,7 +53,8 @@
     "logoBg": "from-[#0f1f1a] to-[#0f2a20]",
     "logoColor": "#68d391",
     "logoInitials": "PF",
-    "metric": "100%\ntest coverage",
+    "proofUrl": "https://github.com/meshery/meshery/pulls?q=is%3Apr+author%3Ajeetburman",
+    "proofType": "github",
     "tags": ["Node.js", "Jest", "TypeScript", "CI/CD"],
     "bullets": [
       "Developed versioned .env backup CLI feature with epoch-based versioning",

@@ -28,7 +28,7 @@ export default function Navbar({ person }: NavbarProps) {
       className="sticky top-0 z-50 flex items-center justify-between px-8 py-4 transition-colors duration-300"
     >
       {/* Logo */}
-      <span className="text-gradient text-[15px] font-semibold tracking-tight">
+      <span className="text-gradient text-[20px] font-semibold tracking-tight">
         {person.name}
       </span>
 
@@ -66,7 +66,7 @@ export default function Navbar({ person }: NavbarProps) {
           onClick={toggle}
           aria-label="Toggle theme"
           style={{ border: "1px solid var(--bd-card)" }}
-          className="w-8 h-8 rounded-lg flex items-center justify-center bg-[var(--bg-card)] transition-all duration-200 hover:border-[var(--bd-card-hov)]"
+          className="w-8 h-9 rounded-lg flex items-center justify-center bg-[var(--bg-card)] transition-all duration-200 hover:border-[var(--bd-card-hov)] relative z-50"
         >
           {theme === "dark" ? (
             /* Sun icon */

@@ -48,10 +48,10 @@ export default function Home() {
       <Navbar person={person} />
       <Hero person={person} />
       <Projects projects={projects} />
-      <EducationSection education={person.education} />
       <OpenSource items={opensource} />
       <Experience experience={experience} />
       <Languages languages={languages} />
+      <EducationSection education={person.education} />
       <Hackathons hackathons={hackathons} achievements={achievements} />
       <Skills skills={skills} />
       <Hobbies hobbies={hobbies} />

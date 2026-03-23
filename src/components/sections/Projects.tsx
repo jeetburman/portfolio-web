@@ -49,14 +49,20 @@ function ProjectCard({ project }: { project: Project }) {
       <div
         className={`relative h-44 w-full bg-gradient-to-br ${project.gradient} flex items-center justify-center overflow-hidden`}
       >
-        <div className="absolute inset-0 flex items-center justify-center">
-            <span
-                style={{ color: "var(--tx-muted)" }}
-                className="text-xs"
-            >
-                {project.title}
-            </span>
-        </div>
+        {project.image ? (
+      <img
+        src={project.image}
+        alt={project.title}
+        className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
+      />
+    ) : (
+      <span
+        style={{ color: "var(--tx-muted)" }}
+        className="text-xs"
+      >
+        {project.title}
+      </span>
+    )}
 
         {/* Status badge */}
         <span
@@ -168,7 +174,7 @@ export default function Projects({ projects }: ProjectsProps) {
           className="flex items-center gap-3 text-xs font-medium tracking-widest uppercase"
         >
           <span className="block w-4 h-px bg-[var(--ac-blue)]" />
-          Featured projects
+           Projects
         </div>
         
         <a  href="https://github.com/jeetburman"
