@@ -8,13 +8,19 @@
   {
     "id": "sih-runner-up",
     "title": "Smart India Hackathon · 1st Runner-up",
-    "description": "College level SIH 2024.",
-    "medalType": "gold"
+    "description": "College level SIH 2025.",
+    "medalType": "silver"
   },
   {
     "id": "tennis-runner-up",
     "title": "Lawn Tennis · 1st Runner-up",
-    "description": "Society level tournament.",
+    "description": "GVWS tournament.",
     "medalType": "silver"
+  },
+  {
+    "id": "Swimming",
+    "title": "Free-Style Swimmimg · 3 Time Gold-Medalist",
+    "description": "High School Inter-House",
+    "medalType": "gold"
   }
 ]

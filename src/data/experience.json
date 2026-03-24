@@ -13,10 +13,10 @@
     "logoInitials": "L5",
     "proofUrl": "https://www.notion.so/Proof-of-Work-Meshery-Layer5-spin-off-organizations-32c760e20cae807e81d0ca4adce610bf?source=copy_link",
     "proofType": "notion",
-    "tags": ["React", "SVG", "GitHub Actions", "Slack API"],
+    "tags": ["React", "SVG", "GitHub Actions"],
     "bullets": [
-      "Delivered 15+ merged PRs to the Meshery ecosystem (CNCF Sandbox), earning Layer5 org membership",
-      "Built live coordinate tracking in Shape Builder canvas with real-time updates and theme-aware styling",
+      "Regularly contributed and presented my work in weekly meetings",
+      "Built live mouse coordinate tracking in Shape Builder canvas with real-time updates",
       "Automated badge award workflow reducing processing time from 30 min to 2 min"
     ]
   },
@@ -34,9 +34,9 @@
     "logoInitials": "MF",
     "proofUrl": "https://github.com/jeetburman/masa-forum",
     "proofType": "github",
-    "tags": ["React", "Tailwind CSS", "Node.js", "Razorpay"],
+    "tags": ["React", "Tailwind CSS", "Node.js"],
     "bullets": [
-      "Built 10+ responsive pages for the official startup website",
+      "Built responsive pages for the official website",
       "Integrated Razorpay payment gateway implementing full payment lifecycle",
       "Developed reusable UI components and managed 50+ assets"
     ]
@@ -55,7 +55,7 @@
     "logoInitials": "PF",
     "proofUrl": "https://www.notion.so/Proof-of-Work-Palisadoes-Foundation-32c760e20cae804b9b7ddbe2bbdbc16d?source=copy_link",
     "proofType": "notion",
-    "tags": ["Node.js", "Jest", "TypeScript", "CI/CD"],
+    "tags": ["Node.js", "Vitest", "TypeScript", "GitHub Actions"],
     "bullets": [
       "Developed versioned .env backup CLI feature with epoch-based versioning",
       "Wrote 114 lines of unit tests achieving 100% coverage",

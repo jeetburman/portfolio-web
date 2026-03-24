@@ -21,7 +21,7 @@ export default function Hero({ person }: HeroProps) {
           className="flex items-center gap-3 text-xs font-medium tracking-widest uppercase mb-4"
         >
           <span className="block w-5 h-px bg-[var(--ac-blue)]" />
-          CS Engineering · 3rd year · Kolkata
+          3rd Year Computer Science & Engineering Student
         </div>
 
         <h1
@@ -66,7 +66,7 @@ export default function Hero({ person }: HeroProps) {
         {/* Photo card */}
         <div
           style={{ border: "1px solid var(--bd-card)" }}
-          className="rounded-2xl overflow-hidden relative w-48 h-56 mx-auto"
+          className="rounded-2xl overflow-hidden relative w-80 h-96 mx-auto"
         >
           <img
             src="/images/avatar.jpeg"

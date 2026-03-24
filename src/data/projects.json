@@ -34,5 +34,17 @@
     "image": "https://opengraph.githubassets.com/1/jeetburman/FolioMorph",
     "featured": true,
     "gradient": "from-[#1a1f35] to-[#2d2060]"
+  },
+  {
+    "id": "lenzora",
+    "title": "Lenzora",
+    "description": "A photo editing fullstack application",
+    "tags": ["React", "Node.js", "MongoDB", "Express", "JWT", "Zod"],
+    "status": "ongoing",
+    "github": "https://github.com/jeetburman/Lenzora",
+    "live": "",
+    "image": "https://opengraph.githubassets.com/1/jeetburman/Lenzora",
+    "featured": true,
+    "gradient": "from-[#1a1f35] to-[#2d2060]"
   }
 ]

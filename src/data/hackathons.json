@@ -1,11 +1,29 @@
 [
   {
+    "id": "sih-2025",
+    "event": "Smart India Hackathon",
+    "placement": "2nd",
+    "level": "College level",
+    "year": "2025",
+    "medalType": "silver",
+    "description": "Competed at college level in India's largest hackathon."
+  },
+  {
     "id": "sih-2024",
     "event": "Smart India Hackathon",
-    "placement": "1st Runner-up",
+    "placement": "8th",
     "level": "College level",
     "year": "2024",
-    "medalType": "gold",
+    "medalType": "bronze",
     "description": "Competed at college level in India's largest hackathon."
+  },
+  {
+    "id": "Prayas",
+    "event": "Prayas",
+    "placement": "8th",
+    "level": "College level",
+    "year": "2024",
+    "medalType": "bronze",
+    "description": "Competed at college level hackathon."
   }
 ]
