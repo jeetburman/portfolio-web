@@ -16,11 +16,11 @@
   "categories": [
     {
       "label": "Frontend",
-      "skills": ["React.js", "Tailwind CSS", "JavaScript", "TypeScript", "SVG / Canvas"]
+      "skills": ["React.js", "Next.js", "Tailwind CSS", "SVG / Canvas","TypeScript"]
     },
     {
       "label": "Backend",
-      "skills": ["Node.js", "Express.js", "REST APIs", "JWT Auth", "Zod"]
+      "skills": ["Node.js", "Express.js", "REST APIs", "JWT Auth", "Zod","TypeScript"]
     },
     {
       "label": "Databases",
@@ -28,7 +28,7 @@
     },
     {
       "label": "DevOps & tooling",
-      "skills": ["Docker", "GitHub Actions", "CI/CD", "Jest", "Vitest", "Java"]
+      "skills": ["Docker", "GitHub Actions", "CI/CD", "Jest", "Vitest"]
     }
   ]
 }
