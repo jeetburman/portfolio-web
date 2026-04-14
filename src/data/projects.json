@@ -1,5 +1,17 @@
 [
   {
+    "id": "zenith-ledger",
+    "title": "Zenith_Ledger",
+    "description": "Potential Btech final year project!",
+    "tags": ["TypeScript","TurboRepo","Express.js","Node.js","Next.js","PostgresSQL","TailwindCSS"],
+    "status": "ongoing",
+    "github": "https://github.com/jeetburman/Zenith_Ledger",
+    "live": "",
+    "image": "https://opengraph.githubassets.com/1/jeetburman/Zenith_Ledger",
+    "featured": true,
+    "gradient": "from-[#0f1f1a] to-[#0f2a20]"
+  },
+  {
     "id": "spill-the-beans",
     "title": "Spill_the_Beans",
     "description": "Pure front-end static online Kaffee Markt built using React.js and Tailwind CSS with AOS animation effects.",
