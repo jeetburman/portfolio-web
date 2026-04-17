@@ -38,12 +38,12 @@
   {
     "id": "foliomorph",
     "title": "FolioMorph",
-    "description": "PERN-stack app that converts uploaded PDFs into interactive flipbooks with JWT authentication and Zod validation.",
-    "tags": ["React", "Node.js", "PostgreSQL", "Express", "JWT", "Zod"],
+    "description": "Full-stack app that converts uploaded PDFs into interactive flipbooks with realistic 3D page-flip animations, flip sound effects, and a shareable/embeddable link",
+    "tags": ["Next.js","Node.js","BullMQ" ,"PostgreSQL", "Express.js","StPageFlip","Howler.js","GhostScript","TypeScript"],
     "status": "ongoing",
     "github": "https://github.com/jeetburman/FolioMorph",
     "live": "",
-    "image": "https://opengraph.githubassets.com/1/jeetburman/FolioMorph",
+    "image": "/images/projects/FolioMorph.png",
     "featured": true,
     "gradient": "from-[#1a1f35] to-[#2d2060]"
   },
