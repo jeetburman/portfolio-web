@@ -12,6 +12,18 @@
     "gradient": "from-[#0f1f1a] to-[#0f2a20]"
   },
   {
+    "id": "Ingressor",
+    "title": "Ingressor",
+    "description": "A production-inspired API Gateway built from scratch. Handles rate limiting, request proxying, authentication and analytics",
+    "tags": ["TypeScript","Express.js","Node.js","Next.js","PostgresSQL","Prisma 5","Recharts","TailwindCSS"],
+    "status": "live",
+    "github": "https://github.com/jeetburman/Ingressor",
+    "live": "",
+    "image": "/images/projects/Ingressor.png",
+    "featured": true,
+    "gradient": "from-[#0f1f1a] to-[#0f2a20]"
+  },
+  {
     "id": "spill-the-beans",
     "title": "Spill_the_Beans",
     "description": "Pure front-end static online Kaffee Markt built using React.js and Tailwind CSS with AOS animation effects.",
