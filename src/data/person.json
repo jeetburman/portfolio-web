@@ -14,7 +14,7 @@
     "degree": "B.Tech in Computer Science & Engineering",
     "university": "Maulana Abul Kalam Azad University of Technology (Formerly WBUT)",
     "shortName": "MAKAUT",
-    "sgpa": 8.25,
+    "sgpa": 8.36,
     "start": "2023",
     "end": "2027",
     "notes": ["H+ Status Recognition (Anabin Database)", "Eligible for ZAV-approved remote internships"],
@@ -32,7 +32,7 @@
     ]
   },
   "stats": [
-    { "value": "8.25", "label": "SGPA · MAKAUT" },
+    { "value": "8.36", "label": "SGPA · MAKAUT" },
     { "value": "15+",  "label": "PRs merged (CNCF)" }
   ],
   "languages": [

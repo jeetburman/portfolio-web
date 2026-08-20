@@ -21,7 +21,7 @@ export default function Hero({ person }: HeroProps) {
           className="flex items-center gap-3 text-xs font-medium tracking-widest uppercase mb-4"
         >
           <span className="block w-5 h-px bg-[var(--ac-blue)]" />
-          3rd Year Computer Science & Engineering Student
+          4th Year Computer Science & Engineering Student
         </div>
 
         <h1
