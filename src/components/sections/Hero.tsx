@@ -20,7 +20,7 @@ export default function Hero({ person }: HeroProps) {
           style={{ color: "var(--ac-blue)" }}
           className="flex items-center gap-3 text-xs font-medium tracking-widest uppercase mb-4"
         >
-          <span className="block w-5 h-px bg-[var(--ac-blue)]" />
+          <span className="block w-0 h-px bg-[var(--ac-blue)]" />
           4th Year Computer Science & Engineering Student
         </div>
 

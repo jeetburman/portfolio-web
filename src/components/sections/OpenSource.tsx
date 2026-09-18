@@ -82,7 +82,7 @@ export default function OpenSource({ items }: OpenSourceProps) {
         style={{ color: "var(--ac-blue)" }}
         className="flex items-center gap-3 text-xs font-medium tracking-widest uppercase mb-8"
       >
-        <span className="block w-4 h-px bg-[var(--ac-blue)]" />
+        <span className="block w-0 h-px bg-[var(--ac-blue)]" />
         Open Source
       </div>
 
