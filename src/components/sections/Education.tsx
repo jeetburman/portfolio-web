@@ -41,7 +41,7 @@ export default function EducationSection({ education }: EducationProps) {
         }}
         className="rounded-2xl p-6 grid grid-cols-1 md:grid-cols-2 gap-8"
       >
-        {/* Left — degree info */}
+        {/* Left - degree info */}
         <div className="flex flex-col gap-4">
           <div>
             <h3
@@ -60,7 +60,7 @@ export default function EducationSection({ education }: EducationProps) {
               style={{ color: "var(--tx-muted)" }}
               className="text-xs mt-1"
             >
-              {education.start} – {education.end} (expected)
+              {education.start} - {education.end} (expected)
             </p>
           </div>
 
@@ -98,7 +98,7 @@ export default function EducationSection({ education }: EducationProps) {
           </div>
         </div>
 
-        {/* Right — coursework */}
+        {/* Right - coursework */}
         <div>
           <p
             style={{ color: "var(--tx-muted)" }}

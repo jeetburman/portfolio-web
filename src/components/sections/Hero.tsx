@@ -14,7 +14,7 @@ export default function Hero({ person }: HeroProps) {
       className="overflow-hidden px-8 lg:px-12 py-20 grid grid-cols-1 md:grid-cols-2 gap-12 items-center"
     >
 
-      {/* Left — text */}
+      {/* Left - text */}
       <div className="relative z-10">
         <div
           style={{ color: "var(--ac-blue)" }}
@@ -60,7 +60,7 @@ export default function Hero({ person }: HeroProps) {
         </div>
       </div>
 
-      {/* Right — photo */}
+      {/* Right - photo */}
       <div className="flex flex-col gap-3">
 
         {/* Photo card */}

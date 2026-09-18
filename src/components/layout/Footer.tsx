@@ -12,7 +12,7 @@ export default function Footer({ person }: FooterProps) {
     >
       <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-8">
 
-        {/* Left — name + tagline */}
+        {/* Left - name + tagline */}
         <div>
           <span className="text-gradient text-lg font-semibold tracking-tight">
             {person.name}
@@ -25,7 +25,7 @@ export default function Footer({ person }: FooterProps) {
           </p>
         </div>
 
-        {/* Center — nav links */}
+        {/* Center - nav links */}
         <div className="flex flex-wrap gap-6">
           {[
             { label: "projects",    href: "#projects" },
@@ -45,7 +45,7 @@ export default function Footer({ person }: FooterProps) {
           ))}
         </div>
 
-        {/* Right — contact links */}
+        {/* Right - contact links */}
         <div className="flex items-center gap-4">
           
            <a href={person.github}

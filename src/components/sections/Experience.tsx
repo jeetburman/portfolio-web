@@ -27,7 +27,7 @@ function ExperienceCard({ item }: { item: ExperienceItem }) {
       {/* Content */}
       <div className="flex-1 min-w-0">
 
-        {/* Top row — title + date/proof on desktop */}
+        {/* Top row - title + date/proof on desktop */}
         <div className="flex items-start justify-between gap-3">
           <div className="flex-1 min-w-0">
             <h3
@@ -37,7 +37,7 @@ function ExperienceCard({ item }: { item: ExperienceItem }) {
               {item.role}
             </h3>
 
-            {/* Date + proof — visible on mobile only, sits under title */}
+            {/* Date + proof - visible on mobile only, sits under title */}
             <div className="flex items-center flex-wrap gap-2 mt-1.5 mb-1 md:hidden">
               <span
                 style={{
@@ -47,7 +47,7 @@ function ExperienceCard({ item }: { item: ExperienceItem }) {
                 }}
                 className="text-[11px] font-medium px-2.5 py-1 rounded-lg whitespace-nowrap"
               >
-                {item.start} – {item.end}
+                {item.start} - {item.end}
               </span>
               {item.proofUrl && (
                 
@@ -83,7 +83,7 @@ function ExperienceCard({ item }: { item: ExperienceItem }) {
             </p>
           </div>
 
-          {/* Date + proof — desktop only, right side */}
+          {/* Date + proof - desktop only, right side */}
           <div className="hidden md:flex flex-col items-end gap-2 flex-shrink-0">
             <span
               style={{
@@ -93,7 +93,7 @@ function ExperienceCard({ item }: { item: ExperienceItem }) {
               }}
               className="text-[11px] font-medium px-2.5 py-1 rounded-lg whitespace-nowrap"
             >
-              {item.start} – {item.end}
+              {item.start} - {item.end}
             </span>
 
             {item.proofUrl && (

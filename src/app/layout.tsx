@@ -16,7 +16,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jeet Burman — Full Stack Developer",
+  title: "Jeet Burman - Full Stack Developer",
   description:
     "Portfolio of Jeet Burman, CS undergrad, open source contributor, and full-stack developer based in Kolkata.",
   openGraph: {
