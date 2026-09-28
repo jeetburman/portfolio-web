@@ -1,15 +1,15 @@
 [
   {
-    "id": "zenith-ledger",
-    "title": "Zenith_Ledger",
-    "description": "Potential Btech final year project!",
-    "tags": ["TypeScript","TurboRepo","Express.js","Node.js","Next.js","PostgresSQL","TailwindCSS"],
-    "status": "ongoing",
-    "github": "https://github.com/jeetburman/Zenith_Ledger_v-zwei",
-    "live": "",
-    "image": "https://opengraph.githubassets.com/1/jeetburman/Zenith_Ledger",
-    "featured": true,
-    "gradient": "from-[#0f1f1a] to-[#0f2a20]"
+  "id": "zenith-ledger",
+  "title": "Zenith_Ledger",
+  "description": "Full-stack digital wallet platform built as a Turborepo monorepo. Features user and merchant portals, P2P transfers with atomic PostgreSQL transactions, mock bank on-ramp flow, live currency rates via Socket.io and Redis, and a personal expense calculator, all driven by a single Express.js API with 6 domain modules.",
+  "tags": ["TypeScript", "Turborepo", "Express.js", "Next.js", "PostgreSQL", "Prisma 5", "Redis", "Socket.io", "NextAuth", "Zod", "TailwindCSS", "GitHub Actions"],
+  "status": "ongoing",
+  "github": "https://github.com/jeetburman/Zenith_Ledger_v-zwei",
+  "live": "",
+  "image": "https://opengraph.githubassets.com/1/jeetburman/Zenith_Ledger_v-zwei",
+  "featured": true,
+  "gradient": "from-[#0f1f1a] to-[#0f2a20]"
   },
   {
     "id": "Ingressor",
